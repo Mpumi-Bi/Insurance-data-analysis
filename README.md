@@ -1,2 +1,2 @@
 # Insurance-data-analysis
-Python script to predict insurance cost
+Using SQL queries to extract insights on insurance data
